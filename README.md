@@ -31,7 +31,7 @@ A high-performance backend API service for managing a product catalog, featuring
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jaswanth4237/product_api_with_redis.git
    cd product_api_with_redis
    ```
 
